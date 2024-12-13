@@ -1,7 +1,5 @@
 # Module 10 Assignment
 
-## Enhanced UI Instructions
-
 ### Tasks
 
 1. **Write a Function: `calculateDifference`**
